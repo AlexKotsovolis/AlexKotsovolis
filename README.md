@@ -1,5 +1,4 @@
 <h1 align="center">Hey, I'm Alex 👋</h1>
-
 <p align="center">
   <em>14-year-old developer from Athens, Greece 🇬🇷 — building things with Python, one project at a time.</em>
 </p>
@@ -7,8 +6,6 @@
 ---
 
 ### 🧑‍💻 About Me
-
-I'm a student with a strong passion for Computer Science and software development. I enjoy building projects that solve real problems and are actually useful to people. My main focus is Python, and I'm particularly drawn to Artificial Intelligence, Cybersecurity, and practical application development.
 
 - 🎓 14 years old, student
 - 📍 Athens, Greece
@@ -19,15 +16,13 @@ I'm a student with a strong passion for Computer Science and software developmen
 
 ---
 
-### 💻 Technologies & Tools
+### 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-000000?style=flat&logo=windowsterminal&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-- Python · Git & GitHub · REST APIs · Automation · CLI tools · AI & ML Libraries
 
 ---
 
@@ -53,6 +48,18 @@ I'm a student with a strong passion for Computer Science and software developmen
 ### 🎯 Goals
 
 My goal is to deepen my knowledge of Computer Science, contribute to meaningful projects, and build software that has a real positive impact. I aspire to work on innovative AI technologies and keep growing as a developer — one commit at a time.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexKotsovolis&show_icons=true&theme=tokyonight&hide_border=true" alt="Alex's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKotsovolis&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
 
 ---
 
