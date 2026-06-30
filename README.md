@@ -54,7 +54,7 @@ My goal is to deepen my knowledge of Computer Science, contribute to meaningful 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexKotsovolis&show_icons=true&theme=tokyonight&hide_border=true" alt="Alex's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexKotsovolis&show_icons=true&theme=tokyonight&hide_border=true" alt= "My GitHub Stats" />
 </p>
 
 <p align="center">
