@@ -1,6 +1,11 @@
 <h1 align="center">Hey, I'm Alex 👋</h1>
+
 <p align="center">
   <em>14-year-old developer from Athens, Greece 🇬🇷 — building things with Python, one project at a time.</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlexKotsovolis&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -54,11 +59,22 @@ My goal is to deepen my knowledge of Computer Science, contribute to meaningful 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexKotsovolis&show_icons=true&theme=tokyonight&hide_border=true" alt= "My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexKotsovolis&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="My GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKotsovolis&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most Used Languages" width="38%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKotsovolis&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexKotsovolis&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+> **Stats not loading?** GitHub badge services occasionally get rate-limited — try opening one of the image URLs above directly in a new browser tab. If it loads there but not on your profile, it's usually a caching issue that clears within a few hours. If it returns an error, double-check that `AlexKotsovolis` matches your GitHub username exactly (case-sensitive).
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexKotsovolis&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
