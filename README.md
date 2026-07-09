@@ -91,3 +91,9 @@ Feel free to explore my repositories and follow my journey as I learn, build, an
 <p align="center">
   <em>Built with Python and a lot of free time 🎮</em>
 </p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3f00,50:3b1f0f,100:04050f&height=140&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
