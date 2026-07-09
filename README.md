@@ -1,98 +1,139 @@
-<h1 align="center">Hey, I'm Alex 👋</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04050f,30:1a1208,60:3b1f0f,100:7c3f00&height=220&section=header&text=Hey,%20I'm%20Alex%20👋&fontSize=60&fontColor=f59e0b&fontAlignY=38&desc=14-year-old%20Developer%20•%20Python%20•%20AI%20•%20Cybersecurity&descColor=fbbf24&descSize=20&descAlignY=62&animation=fadeIn" width="100%"/>
+
+# 🧡 Welcome to my GitHub
+
+*14-year-old developer from Athens, Greece 🇬🇷 — building things with Python, one project at a time.*
+
+<img src="https://komarev.com/ghpvc/?username=AlexKotsovolis&label=Profile%20Views&color=f59e0b&style=flat" />
+
+</div>
+
+---
+
+# 🧑‍💻 About Me
+
+```python
+class Alex:
+    age = 14
+    location = "Athens, Greece 🇬🇷"
+
+    languages = ["Python"]
+    interests = [
+        "Artificial Intelligence",
+        "Natural Language Processing",
+        "Cybersecurity",
+        "Automation"
+    ]
+
+    currently_building = "K0SH AI"
+
+    motto = "Build it. Improve it. Repeat."
+```
+
+- 🐍 Python Developer
+- 🤖 Passionate about AI & NLP
+- 🔐 Learning Cybersecurity
+- ⚙️ I enjoy creating software that is both useful and beautiful
+- 📚 Always exploring new technologies
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
-  <em>14-year-old developer from Athens, Greece 🇬🇷 — building things with Python, one project at a time.</em>
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" />
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlexKotsovolis&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
-</p>
 
----
+![](https://img.shields.io/badge/AI-FFB000?style=for-the-badge&logo=openai&logoColor=black)
+![](https://img.shields.io/badge/NLP-F59E0B?style=for-the-badge)
+![](https://img.shields.io/badge/Cybersecurity-7C3F00?style=for-the-badge)
 
-### 🧑‍💻 About Me
-
-- 🎓 14 years old, student
-- 📍 Athens, Greece
-- 🐍 Python developer
-- 🤖 Interested in AI, NLP, and Cybersecurity
-- 🛠️ I like building things that work — and look good doing it
-- 📚 Constantly learning new technologies and concepts
-
----
-
-### 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-000000?style=flat&logo=windowsterminal&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
----
-
-### 🔨 What I Build
-
-- 🤖 AI-powered desktop applications
-- 🎮 Interactive games and tools
-- ⚙️ Automation scripts and Python utilities
-- 🧪 Educational and experimental software
-- 🔐 Cybersecurity projects and tools
-
----
-
-### 🌱 Currently Working On
-
-- 🎮 **K0sh AI** — A semantic NLP chatbot and gaming machine built with SentenceTransformers and Tkinter
-- 🔐 Exploring cybersecurity concepts and tools
-- 🧠 Researching AI companions and intelligent systems
-- ⚡ Sharpening my Python and software engineering skills
-
----
-
-### 🎯 Goals
-
-My goal is to deepen my knowledge of Computer Science, contribute to meaningful projects, and build software that has a real positive impact. I aspire to work on innovative AI technologies and keep growing as a developer — one commit at a time.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexKotsovolis&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="My GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKotsovolis&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most Used Languages" width="38%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexKotsovolis&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-> **Stats not loading?** GitHub badge services occasionally get rate-limited — try opening one of the image URLs above directly in a new browser tab. If it loads there but not on your profile, it's usually a caching issue that clears within a few hours. If it returns an error, double-check that `AlexKotsovolis` matches your GitHub username exactly (case-sensitive).
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlexKotsovolis&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+# 🔨 Projects I Enjoy Building
 
-- 💬 Discord: **@myboialex3**
-- 🐙 GitHub: [@AlexKotsovolis](https://github.com/AlexKotsovolis)
+🧠 AI-powered applications
 
-Feel free to explore my repositories and follow my journey as I learn, build, and ship. ⭐
+🎮 Desktop games & tools
+
+⚙️ Python automation
+
+🧪 Experimental software
+
+🔐 Cybersecurity projects
 
 ---
 
+# 🚀 Currently Working On
+
+### 🎮 K0SH AI
+
+A semantic AI chatbot powered by:
+
+- 🧠 SentenceTransformers
+- 💬 Semantic memory
+- 🎮 Multi-game engine
+- 🖥️ Modern Tkinter interface
+- ⚡ Fast local inference
+
+---
+
+# 🎯 Goals
+
+> Learn Computer Science deeply, contribute to meaningful projects,
+> and build software that people genuinely enjoy using.
+
+---
+
+# 📊 GitHub Statistics
+
 <p align="center">
-  <em>Built with Python and a lot of free time 🎮</em>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlexKotsovolis&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKotsovolis&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<br/>
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexKotsovolis&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AlexKotsovolis&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📫 Connect
+
+💬 **Discord:** `@myboialex3`
+
+🐙 **GitHub:** https://github.com/AlexKotsovolis
+
+---
+
+<div align="center">
+
+### Thanks for stopping by! ⭐
+
+*"Built with Python, curiosity, and probably too much coffee."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3f00,50:3b1f0f,100:04050f&height=140&section=footer&animation=fadeIn" width="100%"/>
 
